@@ -1,0 +1,8 @@
+.checkout-card{
+    margin-top: 70px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px black;
+    height: 370px;
+    width: 700px;
+}

@@ -1,0 +1,8 @@
+.order-card{
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 50px;
+    box-shadow: 0 0 10px black;
+    height: 760px;
+    width: 700px;
+}

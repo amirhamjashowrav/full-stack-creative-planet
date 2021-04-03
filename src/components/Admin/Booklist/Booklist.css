@@ -1,0 +1,8 @@
+.booklist-card{
+    border-radius: 10px;
+    margin-top: 120px;
+    padding: 50px;
+    box-shadow: 0 0 10px black;
+    height: 620px;
+    width: 700px;
+}
